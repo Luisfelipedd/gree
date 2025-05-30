@@ -1,0 +1,5 @@
+Foi alterado algumas sintaxes erradas, acredito ter deixado comentario perto de todas elas
+
+foram adicionadam as funcionalidades de Registro de usuario (no tinker estava salvando)
+funcionalidades de adicionar comentario tambem foi adicionada
+tambem foi adicionado a funcionalidade de listar e mostrar a media de avaliação dos comentarios nos cards dos livros
